@@ -1,3 +1,5 @@
+![Banner](images/banner.jpg)
+
 # sql_extract_stored_proc
 
 > VBS script for extracting every stored procedures from SQL Server databases into flat files on disk.
@@ -39,10 +41,11 @@ Just get a copy of the sql_extract_stored_proc.vbs file and store it onto your c
 ## Usage
 
 You'll need to provide the script with four variables :
-* The SQL Server name (f.i. `myServer`)
-* The name of the database (f.i. `dbOfMine`)
-* The user to use for the connection (f.i. `userAdmin`)
-* The password for this user (f.i. `my$ecret`)
+
+- The SQL Server name (f.i. `myServer`)
+- The name of the database (f.i. `dbOfMine`)
+- The user to use for the connection (f.i. `userAdmin`)
+- The password for this user (f.i. `my$ecret`)
 
 You can pass these parameters as command line arguments
 
