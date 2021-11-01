@@ -1,6 +1,6 @@
-![Banner](images/banner.jpg)
-
 # sql_extract_stored_proc
+
+![Banner](./banner.svg)
 
 > VBS script for extracting every stored procedures from SQL Server databases into flat files on disk.
 
